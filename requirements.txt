@@ -20,7 +20,7 @@ asyncurban>=0.3.3
 google-api-python-client==2.22.0
 google-auth-httplib2
 google-auth-oauthlib
-googletrans==4.0.0-rc1
+googletrans==4.0.2
 google_images_download
 gTTS
 gTTS-token
